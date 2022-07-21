@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/products/61-429-7036", {data:[{}],fetch:{},mutations:[["setCartItemFromLocalstorage",void 0],["setCurrentProduct","61-429-7036"]]});
